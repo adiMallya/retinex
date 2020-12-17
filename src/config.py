@@ -1,0 +1,5 @@
+SIGMA_LIST = [15, 80, 250]
+ALPHA = 125.0
+BETA = 46.0
+G = 5.0
+OFFSET = 25.0 
