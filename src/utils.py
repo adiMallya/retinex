@@ -76,7 +76,6 @@ def plot_hist(orig_img, enh_img, hist=False, save=False, fname=None):
     if save:
         if fname is not None:
             save_file = os.path.join('assets', fname) 
-            plt.title('Multi-scale retinex  with color restoration')
             plt.savefig(save_file,bbox_inches='tight',dpi=72)
             plt.close(fig)
 
