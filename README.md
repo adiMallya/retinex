@@ -16,6 +16,9 @@ The retinex theory was developed by Land and McCann to model how the human visua
 <img src="assets/output.png" alt="output"></img>
 </p><br>
 
+Read up the [Jupyter notebook](notebook.ipynb) for the usage.
+
+
 ## References
 
 [**1**] Ana Bel´en Petro, Catalina Sbert, Jean-Michel Morel, "Multiscale Retinex" [Paper](https://www.researchgate.net/publication/272643640_Multiscale_Retinex)
